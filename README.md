@@ -1,4 +1,25 @@
 # SwitchSelectionAutomator
+## ツールについて
+Rasberry Pi Picoを使用してNintendo Switch/Switch2の厳選処理(主にポケモンレジェンズ)を自動化するWindowsアプリです。
+
+以下の機能を実装しています。
+* ZA ドーナツ厳選 自動化
+* マクロコントローラとしての使用
+
+ツールの使用にあたり、必要なものは以下の通りです。
+- Windows 10/11 64bitのPC
+    - Core i5 / Ryzen 5 以上
+    - メモリ 8GB以上
+- Rasberry pi pico
+- USBシリアル変換アダプタ
+- ジャンパワイヤー
+- キャプチャーボード
+  - ZA ドーナツ厳選 自動化を行う場合
+- 各種ケーブル
+
+
+## ダウンロード
+[releaseページ](https://github.com/catsith-player/switch_gensen_automation/releases)よりzipファイルをダウンロードしてください。
 
 ## 起動方法
 
