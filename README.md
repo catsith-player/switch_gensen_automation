@@ -1,4 +1,4 @@
-# SwitchSelectionAutomator
+# Switch厳選自動化ツール
 ## ツールについて
 Rasberry Pi Picoを使用してNintendo Switch/Switch2の厳選処理(主にポケモンレジェンズ)を自動化するWindowsアプリです。
 
